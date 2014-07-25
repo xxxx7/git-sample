@@ -1,2 +1,4 @@
 <?php
-echo 'Hello World!';
+echo 'Hello World!' . "\n";
+echo 'Hello World!' . "\n";
+echo 'Hello World!' . "\n";
